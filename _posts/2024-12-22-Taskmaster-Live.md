@@ -2,8 +2,8 @@
 layout: post
 title:  "I Threw a Potato into a Golf Hole on my 18th Birthday"
 date:   2024-12-04 09:30:00 +0000
-description: "A recreation &mdash; in both senses of the word."
-tags: things-i-did
+description: "Taking part in a recreation &mdash; in both senses of the word."
+tags: london
 ---
 
 <style>
