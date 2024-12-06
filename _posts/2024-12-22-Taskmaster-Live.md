@@ -57,10 +57,13 @@ It's hard to give an accurate description of Taskmaster without sharing a few ex
 
 <style>
 .task {
-    width: 80%;
+    width: 70%;
     border: 3px solid black;
     padding: 25px;
     margin: auto;
+
+    margin-top: 25px;
+    margin-bottom: 25px;
 
     font-family: TM;
     text-align: center;
@@ -71,11 +74,8 @@ It's hard to give an accurate description of Taskmaster without sharing a few ex
 <div class="task">
 
 Get this potato into the golf hole.<br>
-
 You may not touch the red green.<br>
-
 Fastest wins.<br>
-
 Your time starts now.<br><br>
 
 (<a href="https://youtu.be/RWQW73P3aN0?si=kneDVE-fgdfHT3nZ&t=892" target="_blank">Series 2, Episode 1</a>)
@@ -85,12 +85,36 @@ Your time starts now.<br><br>
 
 <div class="task">
 
+Make a bridge over the river using only items on this table.<br>
+Highest self-supporting bridge wins.<br>
+The bridge alone must support the potato.<br>
+You must not touch the Taskmaster's house.<br>
+You have twenty minutes.<br>
+Your time starts now.<br><br>
+
+(<a href="https://youtu.be/hA-V69w-nJo?si=8ML5QI2m7ncVygaf&t=1493" target="_blank">Series 2, Episode 5</a>)
+
+</div>
+
+
+<div class="task">
+
 Make the most exotic sandwich.<br>
-
-You have 10 minutes to plan your exotic sandwich and 10 minutes to construct it.<br>
-
+You have ten minutes to plan your exotic sandwich and ten minutes to construct it.<br>
 Your time starts now.<br><br>
 
 (<a href="https://youtu.be/PNrVNbLGcY8?si=B3Y0FEJmRGJi4BGY&t=447" target="_blank">Series 4, Episode 8</a>)
+
+</div>
+
+
+<div class="task">
+
+Identify the ice cream flavours.<br>
+The most correct ice cream flavours identified wins.<br>
+You have ten minutes and you must find every flavour delicious.<br>
+Your time starts now.<br>
+
+(<a href="https://youtu.be/U2sXSVmQR_M?si=vIc1p2zMa7jEM_Fh" target="_blank">Series 14, Episode 3</a>)
 
 </div>
